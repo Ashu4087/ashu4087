@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software developer at Brane Enterprises Pvt. Ltd. with a passion for full-stack development. I graduated from MNNIT Allahabad in 2021 with a degree in Computer Science and Engineering. I'm always eager to learn and grow my skills in the ever-evolving tech landscape. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or contributing to open-source projects. Feel free to connect with me on GitHub or LinkedIn to discuss projects, collaborate, or just chat about tech! 🚀
+I'm a software developer at Mobius Networks Pvt. Ltd. with a passion for full-stack development. I graduated from MNNIT Allahabad in 2021 with a degree in Computer Science and Engineering. I'm always eager to learn and grow my skills in the ever-evolving tech landscape. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or contributing to open-source projects. Feel free to connect with me on GitHub or LinkedIn to discuss projects, collaborate, or just chat about tech! 🚀
 
 
 **Open to all kinds of open source collaborations**
